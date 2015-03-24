@@ -1,1 +1,1 @@
-android utils help to improve the others.
+android utils help to improve the functions.
